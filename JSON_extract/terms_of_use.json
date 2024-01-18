@@ -1,0 +1,32 @@
+{
+    "objects": [
+        {
+            "id": "001",
+            "refId": "REF001",
+            "name": "Terms of Use 1",
+            "description": "Description for Terms of Use 1",
+            "type": "Type1",
+            "status": "Active",
+            "acknowledgement": "Yes",
+            "referenceLink": "http://example.com/1",
+            "createdBy": "User1",
+            "createdOn": "2024-01-01T12:00:00Z",
+            "modifiedBy": "User2",
+            "modifiedOn": "2024-01-02T15:00:00Z"
+        },
+        {
+            "id": "002",
+            "refId": "REF002",
+            "name": "Terms of Use 2",
+            "description": "Description for Terms of Use 2",
+            "type": "Type2",
+            "status": "Inactive",
+            "acknowledgement": "No",
+            "referenceLink": "http://example.com/2",
+            "createdBy": "User3",
+            "createdOn": "2024-01-03T17:00:00Z",
+            "modifiedBy": "User4",
+            "modifiedOn": "2024-01-04T18:00:00Z"
+        }
+    ]
+}
